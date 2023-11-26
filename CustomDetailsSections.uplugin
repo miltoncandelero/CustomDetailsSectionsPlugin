@@ -1,0 +1,27 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0.0",
+	"FriendlyName": "Custom Details Sections",
+	"Description": "Organize the details panel by grouping your variables into custom sections",
+	"Category": "Editor",
+	"CreatedBy": "Elemental Code",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"SupportURL": "",
+	"EngineVersion" : "5.3.0",
+	"PlatformAllowList": [ "Win64", "Win32", "Linux", "MacOS" ],
+	"WhitelistPlatforms": [ "Win64", "Win32", "Linux", "MacOS" ],
+	"MarketplaceURL" : "com.epicgames.launcher://ue/marketplace/product/f7721d0d890142b88b5e6c7720f12605",
+	"CanContainContent": false,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "CustomDetailsSections",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	]
+}
