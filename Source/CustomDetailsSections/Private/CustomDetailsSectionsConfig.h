@@ -12,7 +12,7 @@ struct FCustomDetailsSection
 	GENERATED_BODY()
 
 	// On which class will this section be visible? Children of the class also inherit the section
-	UPROPERTY(EditAnywhere, Category="Custom Details Sections", meta=(DisplayName="Class"))
+	UPROPERTY(EditAnywhere, Category="Custom Details Sections", meta=(DisplayName="Class", AllowAbstract = "true"))
 	FSoftClassPath Class;
 
 	// Unique identifier for this section. Can be the same as another one to append to 
