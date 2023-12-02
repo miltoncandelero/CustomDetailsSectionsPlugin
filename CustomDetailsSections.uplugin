@@ -1,7 +1,7 @@
 {
 	"FileVersion": 3,
 	"Version": 1,
-	"VersionName": "1.0.1",
+	"VersionName": "1.0.2",
 	"FriendlyName": "Custom Details Sections",
 	"Description": "Organize the details panel by grouping your variables into custom sections",
 	"Category": "Editor",
